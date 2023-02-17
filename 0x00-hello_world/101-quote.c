@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - a program that print extactly
+ * main - a program that print extactly followed by a new line, to the standard error.
  * Return: 1
  */
 int main(void)
